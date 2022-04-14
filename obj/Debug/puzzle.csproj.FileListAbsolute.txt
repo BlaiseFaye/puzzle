@@ -1,0 +1,7 @@
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\bin\Debug\puzzle.exe
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\bin\Debug\puzzle.pdb
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\obj\Debug\puzzle.csproj.AssemblyReference.cache
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\obj\Debug\puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\obj\Debug\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\obj\Debug\puzzle.exe
+C:\Users\turf3\RiderProjects\courscsharp\puzzle\obj\Debug\puzzle.pdb
